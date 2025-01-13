@@ -3,3 +3,11 @@
 
 오른쪽 상단의 지갑 연결 버튼을 클릭하고 비밀번호를 입력하여 로그인하십시오.
 ![This is an alt text.](/image/wallet01.png "This is guide image.")
+
+## 브리지 사용 내역
+```
+ℹ️ 브릿지 사용내역은 이더리움을 타이탄으로 deposit하는 거래와 타이탄에서 이더리움으로 withdraw하는 거래를 보여줍니다.
+Withdraw의 자세한 사용 방법은 [Withdraw](https://markdownlivepreview.com/) 페이지를 확인해주세요.
+```
+
+
