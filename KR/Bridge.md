@@ -7,6 +7,6 @@
 
 “Withdraw”을 통해 타이탄에서 이더리움으로 자산을 이동합니다. 7일의 사기 방지 기간에 따라 출금 트랜잭션이 L1에 롤업되는 시점부터 7일이 소요될 것으로 예상됩니다.
 
-* Deposit 방법
+* [Deposit](https://github.com/tokamak-network/tokamak-bridge-user-guide/blob/main/KR/Deposit.md)  방법
 
-* Withdraw 방법
+* [Withdraw](https://github.com/tokamak-network/tokamak-bridge-user-guide/blob/main/KR/Withdraw.md) 방법
